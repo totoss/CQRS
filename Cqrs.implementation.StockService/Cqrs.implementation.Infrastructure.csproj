@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net11.0</TargetFramework>
+    <RootNamespace>Cqrs.implementation.Infrastructure</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Cqrs.implementation.Stock\Cqrs.implementation.Stock.csproj" />
+  </ItemGroup>
+
+</Project>
